@@ -1,2 +1,5 @@
-# argumentative-viz
-News outlets often use visualization rhetorics to skew the reader's perspective. This is a visualization created to show the same. Built as part of CSE578 coursework, in Spring 2023.
+Argumentative Vis
+
+The pair of data visualizations argue for opposing viewpoints, using the same base dataset.
+
+<b>Dataset used:</b> International football results from 1872 to 2022. <a href="https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?resource=download&select=results.csv">Link</a> 
